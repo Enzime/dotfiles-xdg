@@ -1,0 +1,4 @@
+XDG_CONFIG_DIR="$HOME/.config/"
+XDG_DESKTOP_DIR="$HOME/"
+XDG_DOWNLOAD_DIR="/data/Downloads/"
+XDG_PICTURES_DIR="/data/Pictures/"

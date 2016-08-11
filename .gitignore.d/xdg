@@ -1,0 +1,5 @@
+*
+!/.config
+!/.config/user-dirs.dirs
+!/.gitignore.d
+!/.gitignore.d/xdg
